@@ -70,7 +70,7 @@ Outputs
 The game doesn't have set levels but instead has quests and challenges that require you to fly to diffrent places and planets to pick up items. There will be a few planets that have unique enviromental.
 
 ### Storage
-The program will store save data locally. The program will need to able to save where the player is. The program will save after a purchase has been made, a quest completed or accepted. It will first save what planet you are on.
+The program will store save data locally. The program will need to able to save where the player is. The program will save after a purchase has been made, a quest completed or accepted and lastly when you use the save button in the menu. It will first save what planet you are on.
 
 Loading Data 
 
