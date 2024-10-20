@@ -38,7 +38,7 @@ This game is all  about changing perspectives to solve a puzzle and demonstratin
 
 
 
-Skill Development: In order to develop the skills that will be necessary to complete this task to the best of my abillity i will utillise a range of online resources which includes but is not limited to YT tutorials, Untiy/Stack Overflow Forrums and Unity Documentation.
+Skill Development: In order to develop the skills that will be necessary to complete this task to the best of my abillity i will utillise a range of online resources which includes but is not limited to YT tutorials, Unity/Stack Overflow Forrums and Unity Documentation.
 ## Requirements outline
 ### Inputs
 
@@ -74,4 +74,4 @@ The program will store save data locally. The program will need to able to save 
 
 Loading Data 
 
-You will be able to load the data by selecting the gamefile. The savefiles will be saved with the time, date+name of the save  and replace the previous save file. You will only be able to save one but you can start a new game that won;t overide the first
+You will be able to load the data by selecting the gamefile. The savefiles will be saved with the time, date+name of the save  and replace the previous save file. You will only be able to save one but you can start a new game that won't overide the first
