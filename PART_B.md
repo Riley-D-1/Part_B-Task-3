@@ -75,3 +75,21 @@ The program will store save data locally. The program will need to able to save 
 Loading Data 
 
 You will be able to load the data by selecting the gamefile. The savefiles will be saved with the time, date+name of the save  and replace the previous save file. You will only be able to save one but you can start a new game that won't overide the first
+
+
+
+
+
+
+
+
+Compatibility 
+Must be compatible with Windows 11 laptops and PCs
+
+
+Scalability Requirements
+
+
+Security Requirements
+
+Reliabil
