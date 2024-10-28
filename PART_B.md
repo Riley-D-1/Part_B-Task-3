@@ -154,6 +154,6 @@ or religion however I will make sure the continue this in devlopment.
 Its a coincedence that all 3 games start with an S ok.
 |Existing Idea|Postive|Minus|Intreasting|
 |-------------|-------|-----|-----------|
-|Startrucker|A unique space experience. Great events with a touch of chaos in order to repair|Lacks replaybility and instantly feels stale after finishing the main story.|My game is simlar in idea to this game but has a unique excution 
-|Stardew Valley|Fun, Light relaxing pixel art game. Enticing gameplay + incredible pixel art and music/sound effect design|Gets  boring, diffcult to know what to do. Too much to do and consfusign what to choose first.| It's an amazing example that Solo development is possible and also that popular and fun games don't have to be 3d and can return to the retro and unique 2d style|
-|Sea of Thieves|An amazingly chaotic and fun multiplayer experience. Great game to do whatever you want|The PVE content is pretty shallow (laugh at my joke). The game also is nowhere near as fun solo.|
+|Startrucker[alt text](image.png)|A unique space experience. Great events with a touch of chaos in order to repair|Lacks replaybility and instantly feels stale after finishing the main story.|My game is simlar in idea to this game but has a unique excution 
+|Stardew Valley[alt text](image.png)|Fun, Light relaxing pixel art game. Enticing gameplay + incredible pixel art and music/sound effect design|Gets  boring, diffcult to know what to do. Too much to do and consfusign what to choose first.| It's an amazing example that Solo development is possible and also that popular and fun games don't have to be 3d and can return to the retro and unique 2d style|
+|Sea of Thieves![alt text](image.png)|An amazingly chaotic and fun multiplayer experience. Great game to do whatever you want|The PVE content is pretty shallow (laugh at my joke). The game also is nowhere near as fun solo.|
