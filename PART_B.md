@@ -101,18 +101,9 @@ The game doesn't have set levels but instead has quests and challenges that requ
 ### Saving and Loading Data 
 
 You will be able to load the data by selecting the gamefile. The savefiles will be saved with the time, date+name of the save  and replace the previous save file. You will only be able to save one but you can start a new game that won't overide the first
-
-
-
-
-
-
 ### Non Functional Requirements
-
 Compatibility 
 Must be compatible with Windows 11 laptops and PCs. The controls will only use keyboard and mousepad possible
-
-
 Scalability Requirements
 
 
@@ -143,7 +134,7 @@ It is a
 
 
 ### Cultral senstivities
-From my limited cultral knowledge, I belivee that there is nothing that is insensetive to other culture
+From my limited cultral knowledge, I belive that there is nothing that is insensetive to other culture
 or religion however I will make sure the continue this in devlopment.
 
 
@@ -156,3 +147,6 @@ Its a coincedence that all 3 games start with an S ok.
 |Startrucker![alt text](Images\Startrucker.jpg)|A unique space experience. Great events with a touch of chaos in order to repair|Lacks replaybility and instantly feels stale after finishing the main story.|My game is simlar in idea to this game but has a unique excution 
 |Stardew Valley![alt text](Images\Stardew.jpg)|Fun, Light relaxing pixel art game. Enticing gameplay + incredible pixel art and music/sound effect design|Gets  boring, diffcult to know what to do. Too much to do and consfusign what to choose first.| It's an amazing example that Solo development is possible and also that popular and fun games don't have to be 3d and can return to the retro and unique 2d style|
 |Sea of Thieves ![alt text](Images\Sea-of-thieves.jpg)|An amazingly chaotic and fun multiplayer experience. Great game to do whatever you want|The PVE content is pretty shallow (laugh at my joke). The game also is nowhere near as fun solo.|
+
+
+
