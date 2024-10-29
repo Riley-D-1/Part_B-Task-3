@@ -50,8 +50,7 @@ The game needs to be playable with a keyboard only. But better on a keyboard and
 - R for repairs
 - ESC for pause menu 
 ### Processing 
-
-
+The game procwessing
 
 ### Outputs
 The game needs to output a lot of screens in order to be a unique and fun game
