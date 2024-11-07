@@ -124,7 +124,7 @@ The user will be able to interact with the game through keyboard and Mouse. In t
 
 
 ### Movement
-The Movement should feel casual but easy to use and operate while still remaining challenging enough to cause action with the game.
+The Movement should feel casual but easy to use and operate while still remaining challenging enough to cause action with the game. The game should have smooth player animations that make it fun to roam around and explore the open world with.
 
 
 ### Combat
