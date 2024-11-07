@@ -40,7 +40,8 @@ This game is all  about changing perspectives to solve a puzzle and demonstratin
 
 
 - ### Janky FPS Game with Unique movement.
-
+Description:
+This game is about providing a unique player experience and will help players learn multitaskkng and situational awareness. Oot meand tjat the game will have a lighthearted but chaotic tune as players juggle multiple enemies and apply strategies to defeat then all.
 
 |Positive|Minus|Interesting|
 |-------|-----|-----------|
